@@ -1,2 +1,2 @@
-# DevOps
-This is the Repository where I will be sharing all the work which I have done while I learn DevOps
+Devops  
+These are the changes which I have made once I had cloned the repository into my local machine and will be reverting the changes back into the GitHub repo.
