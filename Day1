@@ -1,0 +1,41 @@
+What is DevOps?
+DevOps is a culture, set of practices, and toolchain that unifies software development (Dev) and IT operations (Ops).
+Its goal is to increase an organization's ability to deliver applications and services faster, with improved quality and reliability.
+
+Key Aspects of DevOps:
+	• Automation – of builds, testing, deployment, and infrastructure
+	• Continuous Delivery – smaller, faster, and more frequent releases
+	• Monitoring – real-time tracking of application and infrastructure performance
+	• Collaboration – between Dev and Ops teams using shared tools and responsibilities
+	• Feedback Loops – continuous feedback from customers, systems, and teams
+
+DevOps is NOT just about Delivery:
+It's about:
+	• Faster deployment cycles
+	• Better collaboration
+	• High system reliability
+	• Reduced manual errors
+	• Continuous integration, testing, and monitoring
+
+Why DevOps?
+Organizations adopt DevOps to:
+	1. Accelerate software delivery to meet market demands.
+	2. Improve software quality through automation and CI/CD.
+	3. Reduce failure rates in production.
+	4. Improve recovery time when failures occur.
+	5. Break silos between development and operations teams.
+	6. Improve customer satisfaction with faster feature releases.
+	“If Agile helps you move fast, DevOps helps you move fast with stability.”
+
+Aspect	Agile	DevOps
+Focus	Software development	End-to-end software delivery
+Teams	Developers only	Dev + Ops + QA + Security
+Feedback	From users	From users, systems, operations
+Goal	Iterative software development	Continuous delivery and automation
+Tools	Jira, Scrum, Kanban	CI/CD tools, Monitoring, IaC
+
+Summary Points:
+	• DevOps = Dev + Ops + Automation + Monitoring + Feedback
+	• It’s a culture + tools + processes
+	• Core principles: Automation, Collaboration, CI/CD, Monitoring
+Helps deliver software faster, better, safer
